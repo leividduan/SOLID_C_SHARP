@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Fundamento_this/1.0.0": {
+        "runtime": {
+          "Fundamento_this.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Fundamento_this/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
