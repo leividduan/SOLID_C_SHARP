@@ -1,0 +1,4 @@
+C:\Users\Leivid\Google Drive\Programação\- Projetos\Projetos C#\SOLID_C_SHARP\CHAPTER_2\Chapter_2\ClassesAbstratas\obj\Release\netcoreapp3.1\ClassesAbstratas.csprojAssemblyReference.cache
+C:\Users\Leivid\Google Drive\Programação\- Projetos\Projetos C#\SOLID_C_SHARP\CHAPTER_2\Chapter_2\ClassesAbstratas\obj\Release\netcoreapp3.1\ClassesAbstratas.AssemblyInfoInputs.cache
+C:\Users\Leivid\Google Drive\Programação\- Projetos\Projetos C#\SOLID_C_SHARP\CHAPTER_2\Chapter_2\ClassesAbstratas\obj\Release\netcoreapp3.1\ClassesAbstratas.AssemblyInfo.cs
+C:\Users\Leivid\Google Drive\Programação\- Projetos\Projetos C#\SOLID_C_SHARP\CHAPTER_2\Chapter_2\ClassesAbstratas\obj\Release\netcoreapp3.1\ClassesAbstratas.csproj.CoreCompileInputs.cache

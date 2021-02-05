@@ -9,11 +9,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RelacionamentoHerança", "R
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Composicao1", "Composicao1\Composicao1.csproj", "{613F48AE-6FDE-4434-A6E6-91D181010BBD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RelacionamentoAgregacao", "RelacionamentoAgregacao\RelacionamentoAgregacao.csproj", "{10EA5F97-193E-46B2-A5F8-A78E23AFBB98}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RelacionamentoAgregacao", "RelacionamentoAgregacao\RelacionamentoAgregacao.csproj", "{10EA5F97-193E-46B2-A5F8-A78E23AFBB98}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Acoplamento_Heranca", "Acoplamento_Heranca\Acoplamento_Heranca.csproj", "{BFAC0A06-36CB-4E4F-B3CD-49EB841ACD21}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Acoplamento_Heranca", "Acoplamento_Heranca\Acoplamento_Heranca.csproj", "{BFAC0A06-36CB-4E4F-B3CD-49EB841ACD21}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Acoplamento_Composicao", "Acoplamento_Composicao\Acoplamento_Composicao.csproj", "{84AE848F-F220-463E-962A-D074E0203AE0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Acoplamento_Composicao", "Acoplamento_Composicao\Acoplamento_Composicao.csproj", "{84AE848F-F220-463E-962A-D074E0203AE0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassesAbstratas", "ClassesAbstratas\ClassesAbstratas.csproj", "{8308B259-B71E-4472-8BA4-8654F39CD215}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassesSealed", "ClassesSealed\ClassesSealed.csproj", "{D3876FFA-6359-45FF-8631-25EFD2E81DE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface", "Interface\Interface.csproj", "{0286F081-A7DD-44E1-8D77-F812623423DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceDesacoplamento", "InterfaceDesacoplamento\InterfaceDesacoplamento.csproj", "{42399812-CBF1-454A-9B84-69F33D819DFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassesAbstratas_Interface", "ClassesAbstratas_Interface\ClassesAbstratas_Interface.csproj", "{0A5FE0AC-751F-4267-83A0-EEBADA95C4A9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +55,26 @@ Global
 		{84AE848F-F220-463E-962A-D074E0203AE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{84AE848F-F220-463E-962A-D074E0203AE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{84AE848F-F220-463E-962A-D074E0203AE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8308B259-B71E-4472-8BA4-8654F39CD215}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8308B259-B71E-4472-8BA4-8654F39CD215}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8308B259-B71E-4472-8BA4-8654F39CD215}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8308B259-B71E-4472-8BA4-8654F39CD215}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3876FFA-6359-45FF-8631-25EFD2E81DE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3876FFA-6359-45FF-8631-25EFD2E81DE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3876FFA-6359-45FF-8631-25EFD2E81DE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3876FFA-6359-45FF-8631-25EFD2E81DE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0286F081-A7DD-44E1-8D77-F812623423DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0286F081-A7DD-44E1-8D77-F812623423DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0286F081-A7DD-44E1-8D77-F812623423DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0286F081-A7DD-44E1-8D77-F812623423DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42399812-CBF1-454A-9B84-69F33D819DFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42399812-CBF1-454A-9B84-69F33D819DFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42399812-CBF1-454A-9B84-69F33D819DFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42399812-CBF1-454A-9B84-69F33D819DFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A5FE0AC-751F-4267-83A0-EEBADA95C4A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A5FE0AC-751F-4267-83A0-EEBADA95C4A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A5FE0AC-751F-4267-83A0-EEBADA95C4A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A5FE0AC-751F-4267-83A0-EEBADA95C4A9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
