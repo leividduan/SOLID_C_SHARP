@@ -19,11 +19,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassesAbstratas", "Classes
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassesSealed", "ClassesSealed\ClassesSealed.csproj", "{D3876FFA-6359-45FF-8631-25EFD2E81DE8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface", "Interface\Interface.csproj", "{0286F081-A7DD-44E1-8D77-F812623423DC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interface", "Interface\Interface.csproj", "{0286F081-A7DD-44E1-8D77-F812623423DC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceDesacoplamento", "InterfaceDesacoplamento\InterfaceDesacoplamento.csproj", "{42399812-CBF1-454A-9B84-69F33D819DFE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterfaceDesacoplamento", "InterfaceDesacoplamento\InterfaceDesacoplamento.csproj", "{42399812-CBF1-454A-9B84-69F33D819DFE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassesAbstratas_Interface", "ClassesAbstratas_Interface\ClassesAbstratas_Interface.csproj", "{0A5FE0AC-751F-4267-83A0-EEBADA95C4A9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassesAbstratas_Interface", "ClassesAbstratas_Interface\ClassesAbstratas_Interface.csproj", "{0A5FE0AC-751F-4267-83A0-EEBADA95C4A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polimorfismo", "Polimorfismo\Polimorfismo.csproj", "{C1107126-7029-42E2-8893-E3DD7F90129B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DefaultMemberInterface", "DefaultMemberInterface\DefaultMemberInterface.csproj", "{FFCBE48A-6F3C-43B7-B7BA-F5D4131A9861}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioPratico1", "ExercicioPratico1\ExercicioPratico1.csproj", "{AFAE7F51-C2A0-45A2-97BB-1D36A2007D2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioPratico2", "ExercicioPratico2\ExercicioPratico2.csproj", "{CC279CA0-3751-4602-88F6-A427C6468742}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +83,22 @@ Global
 		{0A5FE0AC-751F-4267-83A0-EEBADA95C4A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A5FE0AC-751F-4267-83A0-EEBADA95C4A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A5FE0AC-751F-4267-83A0-EEBADA95C4A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1107126-7029-42E2-8893-E3DD7F90129B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1107126-7029-42E2-8893-E3DD7F90129B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1107126-7029-42E2-8893-E3DD7F90129B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1107126-7029-42E2-8893-E3DD7F90129B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFCBE48A-6F3C-43B7-B7BA-F5D4131A9861}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFCBE48A-6F3C-43B7-B7BA-F5D4131A9861}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFCBE48A-6F3C-43B7-B7BA-F5D4131A9861}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFCBE48A-6F3C-43B7-B7BA-F5D4131A9861}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFAE7F51-C2A0-45A2-97BB-1D36A2007D2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFAE7F51-C2A0-45A2-97BB-1D36A2007D2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFAE7F51-C2A0-45A2-97BB-1D36A2007D2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFAE7F51-C2A0-45A2-97BB-1D36A2007D2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC279CA0-3751-4602-88F6-A427C6468742}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC279CA0-3751-4602-88F6-A427C6468742}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC279CA0-3751-4602-88F6-A427C6468742}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC279CA0-3751-4602-88F6-A427C6468742}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -7,5 +7,5 @@ Repositório criado para guardar a progressão e estudo sobre a arquitetura SOLI
 Capítulo/Chapter |Status|
 |----------------|------|
 |1|✅|
-|2|❌|
+|2|✅|
 |3|❌|
