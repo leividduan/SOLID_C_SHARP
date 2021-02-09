@@ -3,17 +3,23 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SRP_Violacao", "SRP_Violacao\SRP_Violacao.csproj", "{22AB42AF-D22C-4D7B-9ABA-2B52530F0485}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SRP_Violacao", "SRP_Violacao\SRP_Violacao.csproj", "{22AB42AF-D22C-4D7B-9ABA-2B52530F0485}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SRP_Aderente", "SRP_Aderente\SRP_Aderente.csproj", "{2291FD40-95A1-4AC2-B9F1-F0D5CD94B27F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SRP_Aderente", "SRP_Aderente\SRP_Aderente.csproj", "{2291FD40-95A1-4AC2-B9F1-F0D5CD94B27F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OCP_MetodoExtendido", "OCP_MetodoExtendido\OCP_MetodoExtendido.csproj", "{FC084E71-8014-4AF0-BFD1-32C657ABF159}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OCP_MetodoExtendido", "OCP_MetodoExtendido\OCP_MetodoExtendido.csproj", "{FC084E71-8014-4AF0-BFD1-32C657ABF159}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OCP_Violacao", "OCP_Violacao\OCP_Violacao.csproj", "{537BB155-E962-406C-AE5A-88BD79401AE9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OCP_Violacao", "OCP_Violacao\OCP_Violacao.csproj", "{537BB155-E962-406C-AE5A-88BD79401AE9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OCP_Aderente", "OCP_Aderente\OCP_Aderente.csproj", "{FC783C72-A024-44F9-A314-00D4C87882E7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OCP_Aderente", "OCP_Aderente\OCP_Aderente.csproj", "{FC783C72-A024-44F9-A314-00D4C87882E7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LSP_Violacao", "LSP_Violacao\LSP_Violacao.csproj", "{A01B02F3-25DA-41B5-82A0-10194ECDC1E4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LSP_Violacao", "LSP_Violacao\LSP_Violacao.csproj", "{A01B02F3-25DA-41B5-82A0-10194ECDC1E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISP_Violacao_Aderente", "ISP_Violacao_Aderente\ISP_Violacao_Aderente.csproj", "{E473531B-F4F5-412F-8D81-8472F2D266CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DIP_Violacao_Aderente", "DIP_Violacao_Aderente\DIP_Violacao_Aderente.csproj", "{21F49F45-FE6A-4139-96D8-4E63976CCB25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AplicandoPrincipiosSOLID1", "AplicandoPrincipiosSOLID1\AplicandoPrincipiosSOLID1.csproj", "{DCC3E2FB-89B0-423B-9A41-5BEF5CB19DF7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +51,18 @@ Global
 		{A01B02F3-25DA-41B5-82A0-10194ECDC1E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A01B02F3-25DA-41B5-82A0-10194ECDC1E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A01B02F3-25DA-41B5-82A0-10194ECDC1E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E473531B-F4F5-412F-8D81-8472F2D266CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E473531B-F4F5-412F-8D81-8472F2D266CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E473531B-F4F5-412F-8D81-8472F2D266CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E473531B-F4F5-412F-8D81-8472F2D266CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21F49F45-FE6A-4139-96D8-4E63976CCB25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21F49F45-FE6A-4139-96D8-4E63976CCB25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21F49F45-FE6A-4139-96D8-4E63976CCB25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21F49F45-FE6A-4139-96D8-4E63976CCB25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCC3E2FB-89B0-423B-9A41-5BEF5CB19DF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCC3E2FB-89B0-423B-9A41-5BEF5CB19DF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCC3E2FB-89B0-423B-9A41-5BEF5CB19DF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCC3E2FB-89B0-423B-9A41-5BEF5CB19DF7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
