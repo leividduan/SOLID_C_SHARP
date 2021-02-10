@@ -15,11 +15,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OCP_Aderente", "OCP_Aderent
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LSP_Violacao", "LSP_Violacao\LSP_Violacao.csproj", "{A01B02F3-25DA-41B5-82A0-10194ECDC1E4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISP_Violacao_Aderente", "ISP_Violacao_Aderente\ISP_Violacao_Aderente.csproj", "{E473531B-F4F5-412F-8D81-8472F2D266CA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ISP_Violacao_Aderente", "ISP_Violacao_Aderente\ISP_Violacao_Aderente.csproj", "{E473531B-F4F5-412F-8D81-8472F2D266CA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DIP_Violacao_Aderente", "DIP_Violacao_Aderente\DIP_Violacao_Aderente.csproj", "{21F49F45-FE6A-4139-96D8-4E63976CCB25}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DIP_Violacao_Aderente", "DIP_Violacao_Aderente\DIP_Violacao_Aderente.csproj", "{21F49F45-FE6A-4139-96D8-4E63976CCB25}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AplicandoPrincipiosSOLID1", "AplicandoPrincipiosSOLID1\AplicandoPrincipiosSOLID1.csproj", "{DCC3E2FB-89B0-423B-9A41-5BEF5CB19DF7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AplicandoPrincipiosSOLID1", "AplicandoPrincipiosSOLID1\AplicandoPrincipiosSOLID1.csproj", "{DCC3E2FB-89B0-423B-9A41-5BEF5CB19DF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_1", "Exercicio_1\Exercicio_1.csproj", "{57071AC5-2B8B-4F69-8E23-DB72C4AD8344}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_2", "Exercicio_2\Exercicio_2.csproj", "{4BF2C3E0-48AD-493C-AC03-BB5BC87ED31A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_3", "Exercicio_3\Exercicio_3.csproj", "{05D41F84-CBFE-4373-B755-B7FA800BC9B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_4", "Exercicio_4\Exercicio_4.csproj", "{FEE8E7D1-BFE6-413A-B2CB-31367682352E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +71,22 @@ Global
 		{DCC3E2FB-89B0-423B-9A41-5BEF5CB19DF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DCC3E2FB-89B0-423B-9A41-5BEF5CB19DF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DCC3E2FB-89B0-423B-9A41-5BEF5CB19DF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57071AC5-2B8B-4F69-8E23-DB72C4AD8344}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57071AC5-2B8B-4F69-8E23-DB72C4AD8344}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57071AC5-2B8B-4F69-8E23-DB72C4AD8344}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57071AC5-2B8B-4F69-8E23-DB72C4AD8344}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BF2C3E0-48AD-493C-AC03-BB5BC87ED31A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BF2C3E0-48AD-493C-AC03-BB5BC87ED31A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BF2C3E0-48AD-493C-AC03-BB5BC87ED31A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BF2C3E0-48AD-493C-AC03-BB5BC87ED31A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05D41F84-CBFE-4373-B755-B7FA800BC9B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05D41F84-CBFE-4373-B755-B7FA800BC9B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05D41F84-CBFE-4373-B755-B7FA800BC9B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05D41F84-CBFE-4373-B755-B7FA800BC9B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEE8E7D1-BFE6-413A-B2CB-31367682352E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEE8E7D1-BFE6-413A-B2CB-31367682352E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEE8E7D1-BFE6-413A-B2CB-31367682352E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEE8E7D1-BFE6-413A-B2CB-31367682352E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
